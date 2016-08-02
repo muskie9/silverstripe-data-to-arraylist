@@ -1,0 +1,26 @@
+{
+    "name": "muskie9/data-to-arraylist",
+    "description": "A helper class that converts DataList to ArrayList and allows adding of additional sort options",
+    "authors": [
+        {
+            "name": "Nic Horstmeier",
+            "email": "nhorstmeier@gmail.com"
+        }
+    ],
+    "keywords": [
+        "silverstripe"
+    ],
+    "type": "silverstripe-module",
+    "license": "BSD-3-Clause",
+    "require": {
+        "silverstripe/framework": "^3.4",
+    },
+    "require-dev": {
+        "phpunit/PHPUnit": "^3.7"
+    },
+    "config": {
+        "process-timeout": 600
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
