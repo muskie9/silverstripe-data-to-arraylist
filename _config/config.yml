@@ -1,3 +1,6 @@
 ---
 Name: datato-arraylistconfig
 ---
+ArrayList:
+  extensions:
+    - ArrayListRandomSortExtension
