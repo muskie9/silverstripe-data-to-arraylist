@@ -1,5 +1,10 @@
 <?php
 
+namespace muskie9\DataToArrayList\ORM;
+
+use SilverStripe\ORM\DataList,
+    SilverStripe\ORM\ArrayList;
+
 /**
  * Class DataToArrayListHelper
  */

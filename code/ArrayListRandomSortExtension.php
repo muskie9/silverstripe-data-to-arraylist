@@ -1,5 +1,9 @@
 <?php
 
+namespace muskie9\DataToArrayList\Extension;
+    
+use SilverStripe\Core\Extension;
+
 /**
  * Class ArrayListRandomSortExtension
  */
