@@ -1,6 +1,6 @@
 ---
 Name: datato-arraylistconfig
 ---
-ArrayList:
+SilverStripe\ORM\ArrayList:
   extensions:
-    - ArrayListRandomSortExtension
+    - muskie9\DataToArrayList\Extension\ArrayListRandomSortExtension
