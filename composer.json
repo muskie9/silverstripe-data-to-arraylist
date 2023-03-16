@@ -13,12 +13,7 @@
     "type": "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
     "require": {
-        "silverstripe/recipe-cms": "^1.0 || ^4.0",
-        "silverstripe/vendor-plugin": "^1.0@dev"
-    },
-    "require-dev": {
-        "phpunit/PHPUnit": "^5.7",
-        "squizlabs/php_codesniffer": "*"
+        "silverstripe/recipe-cms": "^1.0 || ^4.0"
     },
     "config": {
         "process-timeout": 600
