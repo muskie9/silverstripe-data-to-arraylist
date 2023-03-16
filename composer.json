@@ -13,7 +13,7 @@
     "type": "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
     "require": {
-        "silverstripe/recipe-cms": "^1.0 || ^4.0"
+        "silverstripe/framework": "^4.0"
     },
     "config": {
         "process-timeout": 600
